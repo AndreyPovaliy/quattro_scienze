@@ -1,0 +1,1 @@
+python3 ./create/article/preFile.py > ./create/article/scriptProject.sh
