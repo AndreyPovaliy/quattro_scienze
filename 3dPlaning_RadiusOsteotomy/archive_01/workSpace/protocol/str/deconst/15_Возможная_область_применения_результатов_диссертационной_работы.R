@@ -1,0 +1,1 @@
+escribir_rT("~/Documents/Science/3dPlaning_RadiusOsteotomy/workSpace/protocol/str/deconst/text/15_Возможная_область_применения_результатов_диссертационной_работы.txt")

@@ -1,0 +1,16 @@
+---
+title: "Chapter_3"
+author: "Andrey Povaliy"
+date: "2023-07-24"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+
+```
+
+## R Markdown
+
+

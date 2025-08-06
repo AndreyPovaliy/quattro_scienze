@@ -1,0 +1,1 @@
+python3 ./create/tesis/preFile.py > ./create/tesis/scriptProject.sh

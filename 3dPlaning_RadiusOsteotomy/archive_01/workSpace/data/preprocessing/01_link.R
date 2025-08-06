@@ -1,0 +1,6 @@
+WayToData <-  "./workSpace/data/getData/data.xlsx"
+Sheet1 <- "1"
+Sheet2a <- "2a"
+Sheet2b <- "2b"
+Sheet3 <- "3"
+FileName <- "./workSpace/text_Disser.txt"

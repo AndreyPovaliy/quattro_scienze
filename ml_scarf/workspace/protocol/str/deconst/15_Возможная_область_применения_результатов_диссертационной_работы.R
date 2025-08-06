@@ -1,0 +1,1 @@
+escribir_rT("./workspace/protocol/str/deconst/text_protocol/15_Возможная_область_применения_результатов_диссертационной_работы.txt")

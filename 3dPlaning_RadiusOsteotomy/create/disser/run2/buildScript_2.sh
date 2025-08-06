@@ -1,0 +1,1 @@
+python3 ./create/disser/run2/preFile2.py > ./create/disser/run2/scriptProject_2.sh

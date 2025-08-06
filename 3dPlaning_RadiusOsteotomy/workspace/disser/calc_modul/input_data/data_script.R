@@ -1,0 +1,6 @@
+source("./workSpace/disser/calc_modul/input_data/preprocessing/01_link.R")
+source("./workSpace/disser/calc_modul/input_data/preprocessing/02_samples.R")
+source("./workSpace/disser/calc_modul/input_data/preprocessing/03_lables.R")
+source("./workSpace/disser/calc_modul/input_data/preprocessing/04_subsampl.R")
+source("./workSpace/disser/calc_modul/func/func.R")
+source("./workSpace/disser/calc_modul/func/plots.R")

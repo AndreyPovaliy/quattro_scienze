@@ -1,0 +1,1 @@
+python3 ./workspace/protocol/manage/preFile.py > ./workspace/protocol/manage/scriptProject.sh

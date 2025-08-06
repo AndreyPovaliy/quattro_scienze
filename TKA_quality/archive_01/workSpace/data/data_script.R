@@ -1,0 +1,6 @@
+source("./workSpace/data/preprocessing/01_link.R")
+source("./workSpace/data/preprocessing/02_samples.R")
+source("./workSpace/data/preprocessing/03_lables.R")
+source("./workSpace/data/preprocessing/04_subsampl.R")
+source("./workSpace/data/preprocessing/func/func.R")
+source("./workSpace/data/preprocessing/func/plot.R")

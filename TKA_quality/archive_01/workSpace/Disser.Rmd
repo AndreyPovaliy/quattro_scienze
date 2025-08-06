@@ -1,0 +1,11 @@
+---
+title: "Disser"
+author: "AndreyPovaliy"
+date: "2024-02-15"
+output: word_document
+bibliography: references.bib
+csl: "gost-r-7-0-5-2008-numeric-alphabetical.csl"
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
